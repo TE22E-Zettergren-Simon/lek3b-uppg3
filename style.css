@@ -92,3 +92,13 @@ body {
 .box p {
 	text-align: center;
 }
+
+.sidfot {
+	display: flex;
+	justify-content: center;
+
+	padding: 10px 0;
+
+	background-color: #e8491d;
+	color: white;
+}
