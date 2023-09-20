@@ -44,6 +44,10 @@ body {
 	border-bottom: 3px solid red;
 }
 
+.övre h1 {
+	font-size: 3rem;
+}
+
 .övre p {
 	width: 65%;
 	text-align: center;
