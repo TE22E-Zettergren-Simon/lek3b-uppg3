@@ -66,3 +66,29 @@ body {
 .mellan h1 {
 	padding: 15px 0;
 }
+
+.undre {
+	display: flex;
+	border-bottom: 3px solid orange;
+}
+
+.box {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	padding: 15px 5px;
+	gap: 10px;
+
+	background-color: #eee;
+	border: 2px solid yellow;
+	border-style: none solid;
+}
+
+.box img {
+	max-width: 40%;
+}
+
+.box p {
+	text-align: center;
+}
